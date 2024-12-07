@@ -1,0 +1,114 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+}
+.title-data__designation
+{
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.title-data__head1 {
+    color: lightblue;
+    margin: 10px;
+}
+
+.title-data__contact {
+    background-color: red;
+    color: white;
+    padding:10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+.container {
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.title-data {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.title-data__name {
+    font-size: 40px;
+    color: darkkhaki;
+    margin: 10px;
+}
+.description
+{
+    color:black ;
+}
+.details__one li,.details__two li{
+    list-style: none;
+}
+.details__one,.details__two{
+    margin: 05px;
+}
+
+.details__one{
+    background-color: orange;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 300px;
+    border-radius: 05px;
+    vertical-align: top;
+}
+.details__two{
+    background-color: purple;
+    color:white;
+    padding: 20px;
+    display: inline-block;
+    height: 300px;
+    border-radius: 10px;
+    vertical-align: top;
+
+}
+.contact-details{
+    background-color: black;
+    color:white;
+    display: inline-flexbox;
+    margin: 10px;
+    padding: 10px;
+}
+.contact-details__insta,.contact-details__linkedin{
+    color:aqua;
+}
+.clink{
+    color:antiquewhite;
+}
+.contact-details__insta:hover{
+    color: brown;
+    background-color:transparent;
+}
+.selection-one{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.selection-one p{
+    font-size: medium;
+    color:chartreuse;
+    padding: 10px;
+}
+.selection-one a{
+    border-radius: 10px;
+    background-color:rgb(203, 203, 117);
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 5px;
+    color:black;
+    border-color: rgb(75, 177, 211);
+}
+.contact-container{
+margin: 10px;
+}
+.form-details td{
+    padding: 10px;
+    text-decoration: solid;
+}
+ 
